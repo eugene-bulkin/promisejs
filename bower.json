@@ -1,0 +1,23 @@
+{
+  "name": "promisejs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/stackp/promisejs",
+  "authors": [
+    "Pierre Duquesne <stackp@online.fr>"
+  ],
+  "description": "Lighweight AJAX library",
+  "main": "promise.js",
+  "keywords": [
+    "ajax"
+  ],
+  "license": "New BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
